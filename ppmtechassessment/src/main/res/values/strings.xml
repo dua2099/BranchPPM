@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BranchPPMTechAssessment</string>
+    <string name="share">Share</string>
+    <string name="deep_link_screen">Deep Link Screen</string>
+    <string name="branch_key_live" translatable="false">key_live_ck3kK8Ne7mugaQf1G2GNIemfrrdmGZrb</string>
+    <string name="share_message_title">PPM Tech Assessment</string>
+    <string name="share_message_body">Deep Link Test</string>
+    <string name="copy">Copy</string>
+    <string name="added_to_clipboard">"Added to Clipboard</string>
+    <string name="share_with">Share with</string>
+</resources>
